@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-md-6" style="margin-bottom: 30px;">
                 <h3>前菜</h3>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item d-flex justify-content">
@@ -89,7 +89,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="col-md-6">
+              <div class="col-md-6" style="margin-bottom: 30px;">
                 <h3>甜點</h3>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item d-flex justify-content">
@@ -176,7 +176,7 @@
             </div>
 
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-md-6" style="margin-bottom: 30px;">
                 <h3>湯</h3>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item d-flex justify-content">
@@ -260,7 +260,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="col-md-6">
+              <div class="col-md-6" style="margin-bottom: 30px;">
                 <h3>飲料</h3>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item d-flex justify-content">
@@ -347,7 +347,7 @@
             </div>
 
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-md-6" style="margin-bottom: 30px;">
                 <h3>主菜</h3>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item d-flex justify-content">
@@ -412,7 +412,7 @@
                           src="http://lorempixel.com/64/64/food/9"
                         >
                         <div class="media-body">
-                          <h5 class="mt-0">原燒和牛</h5>和牛!!!!
+                          <h5 class="mt-0">原燒和牛</h5>和牛!!
                         </div>
                       </div>
                     </div>

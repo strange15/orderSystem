@@ -412,7 +412,7 @@
                           src="http://lorempixel.com/64/64/food/9"
                         >
                         <div class="media-body">
-                          <h5 class="mt-0">原燒和牛</h5>和牛!!!
+                          <h5 class="mt-0">原燒和牛</h5>和牛!!!!
                         </div>
                       </div>
                     </div>

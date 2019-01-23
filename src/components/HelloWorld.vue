@@ -17,7 +17,7 @@
                           src="http://lorempixel.com/output/food-q-c-64-64-8.jpg"
                         >
                         <div class="media-body">
-                          <h5 class="mt-0">龍蝦沙拉</h5>不含龍蝦的沙拉
+                          <h5 class="mt-0">龍蝦沙拉</h5>不含龍蝦的沙拉!
                         </div>
                       </div>
                     </div>
